@@ -1,0 +1,12 @@
+TEST
+*.swl
+*.bp
+*.o
+*.mod
+*.swo
+*.swn
+*.swp
+combine_seis
+log
+file_list
+cpu_time
