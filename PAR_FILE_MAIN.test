@@ -1,0 +1,17 @@
+#=================================================================
+#if RUN_FLEXWIN, calculate the flexwin; 
+#if not, windows are already been generated. Read from window file
+#
+#
+#
+#=================================================================
+
+#Debug
+DEBUG                       = .false.
+
+#INPUT file info
+ASDF_FILE_1                 = DATA/example_data/200801151752A_obs.bp
+ASDF_FILE_2                 = DATA/example_data/200801151752A_obs.bp
+
+#OUTPUT directory(the window file)
+OUTDIR                      = OUTPUT

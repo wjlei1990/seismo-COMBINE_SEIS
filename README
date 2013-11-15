@@ -1,3 +1,18 @@
 #PROGRAM combine_seis
 #combine two asdf together
 #usually used on combine two frequency band data together
+
+#DEVELOPER: Wenjie Lei
+
+#-----------------------------
+Pre-request:
+Adios-1.5.0
+
+#-----------------------------
+How to run examples:
+1) copy test PAR_FILE
+    cp PAR_FILE_MAIN.test PAR_FILE_MAIN
+2) complie the code
+    make clean ; make
+3) run the code
+    ./combine_seis
